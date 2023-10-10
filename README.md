@@ -25,8 +25,6 @@ Exemplificação da sintaxe geral e básica da Linguagem PYTHON
 ```sh
 .
 ├── main.py
-├── poetry.lock
-├── pyproject.toml
 └── README.md
 ```
 
